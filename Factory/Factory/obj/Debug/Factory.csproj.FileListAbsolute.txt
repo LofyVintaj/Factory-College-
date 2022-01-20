@@ -1,0 +1,17 @@
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Form1.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Properties.Resources.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.csproj.GenerateResource.cache
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.pdb
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Employees.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Factorys.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.GeneralInquiries.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Phones.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Professions.resources
+C:\Users\lofyl\College\Технологическая практика\Работа\Factory\Factory\Factory\obj\Debug\Factory.Different.resources
